@@ -1,0 +1,10 @@
+ForRummy/
+ScientificNotionCalculator/
+# Will ignore some basic build files
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.csproj.user
